@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{PRML}
+Christopher~M. Bishop.
+\newblock {\em Pattern Recognition and Machine Learning}.
+\newblock Springer, 2006.
+
+\bibitem{Conditional}
+A.~P. Dawid.
+\newblock Conditional independence in statistical theory.
+\newblock {\em J. Roy. Statist. Soc. Ser. B}, 41(1):1--31, 1979.
+
+\bibitem{MatrixDiffCalc}
+Jan Magnus and Heinz Neudecker.
+\newblock {\em Matrix Differential Calculus With Applications In Statistics And
+  Econometrics}.
+\newblock John Wiley \& Sons, third edition, Jan. 16 2007.
+
+\end{thebibliography}
